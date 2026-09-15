@@ -27,7 +27,7 @@
 
 ## Repository Workflow and Change Safety
 
-- Look for source repositories under `~/src`.
+- Look for source repositories under `/mnt/c/Users/sneha.devulapalli/Projects/`.
 
 - Before changing files in a Git repository, work from a task-specific Git
   worktree and use the `using-git-worktrees` skill when available.
