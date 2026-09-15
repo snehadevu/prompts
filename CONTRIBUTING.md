@@ -66,19 +66,10 @@
 - Use `linctl` to look up Linear ticket details. Run `linctl docs` when usage
   guidance is needed.
 
-- Safari is my primary web browser. For browser UI tasks that require computer
-  use, prefer Codex Computer Use with Safari. Do not use Chrome or
-  Chrome-extension-driven browser control unless I explicitly request it or
-  Safari Computer Use cannot complete the required workflow.
-
 ## Personal Context
 
 - Convergint is the correct spelling of my company's name; do not treat it as a
   typo.
-
-- I lead platform engineering at Convergint. Surface optional platform
-  improvements as considerations, but do not gate application work on them; I
-  can drive those improvements separately.
 
 ## Code Style
 
